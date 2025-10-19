@@ -522,4 +522,3 @@ Found a bug or have a suggestion? Contributions are welcome!
 
 **Made with ❤️ for the DevOps community**
 
-*Last updated: October 18, 2025*
